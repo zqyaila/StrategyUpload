@@ -1,1 +1,29 @@
-# StrategyUpload
+# StrategyUpload 攻略图上传管理插件
+
+一款用于便捷管理攻略图片的插件，支持通过命令上传、删除、查看攻略图，适用于需要集中管理各类攻略素材的场景。
+
+
+## 安装步骤
+
+方法1.将该js下载放入/waves-plugin/apps/后重启即可
+
+方法2.先进入云崽主目录，然后使用以下命令快速安装插件：
+
+```bash
+curl -o "./plugins/waves-plugin/apps/StrategyUpload.js" "https://raw.githubusercontent.com/zqyaila/StrategyUpload/main/StrategyUpload.js"
+
+通过 ~上传攻略帮助 来获取该帮助
+【攻略上传帮助】
+通过～攻略列表，获取攻略文件夹名称
+使用格式如下：
+～上传（攻略组名称）攻略/角色名.jpg
+
+示例：
+～上传moealkyne攻略/安可.jpg
+注意事项：
+- 支持在消息中附带图片，或引用消息
+- 仅支持 jpg格式
+- 同名文件将覆盖旧图
+
+
+后续可能实现，面板图库但是咕咕咕咕
