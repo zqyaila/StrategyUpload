@@ -11,8 +11,10 @@
 
 ```bash
 curl -o "./plugins/waves-plugin/apps/StrategyUpload.js" "https://raw.githubusercontent.com/zqyaila/StrategyUpload/main/StrategyUpload.js"
+'''
 
 通过 ~上传攻略帮助 来获取该帮助
+
 【攻略上传帮助】
 通过～攻略列表，获取攻略文件夹名称
 使用格式如下：
@@ -26,4 +28,14 @@ curl -o "./plugins/waves-plugin/apps/StrategyUpload.js" "https://raw.githubuserc
 - 同名文件将覆盖旧图
 
 
-后续可能实现，面板图库但是咕咕咕咕
+后续可能实现，
+
+1.面板图库
+
+2.上传权重
+
+3.查看权重
+
+4.一键获取角色代号
+
+### 具体看ai大哥能不能给我跑出来，大概率咕咕咕
