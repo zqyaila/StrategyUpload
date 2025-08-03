@@ -11,7 +11,7 @@
 
 ```bash
 curl -o "./plugins/waves-plugin/apps/StrategyUpload.js" "https://raw.githubusercontent.com/zqyaila/StrategyUpload/main/StrategyUpload.js"
-'''
+```
 
 通过 ~上传攻略帮助 来获取该帮助
 
